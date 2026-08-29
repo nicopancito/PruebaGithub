@@ -1,3 +1,3 @@
 # PruebaGithub
-Probando Github con comando
+Probando Github
 
