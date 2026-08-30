@@ -1,5 +1,2 @@
 # PruebaGithub
-Probando
-Autor nicoooo
-
-aña
+Probando repositorio de nicoco
